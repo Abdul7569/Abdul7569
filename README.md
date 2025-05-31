@@ -2,10 +2,29 @@
 <h3 align="center">🚀 I love building things that make life easier.</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Web+Developer;AI+Enthusiast;Machine+Learning+Explorer;Always+Learning+New+Tech&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data Engineer;AI+Enthusiast;Machine+Learning+Explorer;Always+Learning+New+Tech&center=true&width=500&height=45">
 </p>
 
 ---
+## About Me
+### 👋 Hi, I'm Abdul Kalam Pulicharla
+
+🚀 I love building things that make life easier — not just for myself, but for people around me.
+
+I'm a **Data Enthusiast** and a passionate builder who turns day-to-day challenges into opportunities for innovation. My curiosity often begins with a problem I’ve personally faced and turns into a project I pursue with all my energy.
+
+- 🏠 While struggling to find the **right accommodation in the right community**, I started developing a project — *Accommodation Marketplace* — where students can **find roommates, swap rooms, and even buy/sell essentials**. It’s still a work in progress, but it was born out of a real need.
+  
+- 💸 When I couldn't track where my money was going and how much debt I had, I began working on an **Expense Tracker** that not only helps log spending, but also **calculates debt repayment time based on income**. It became more than a tool — it became a guide.
+
+- 🤖 When I felt unsure about which roles matched my skill set, I built an **AI-Powered Role Recommender** using **BERT** and **Spacy** — an intelligent system that scans resumes and suggests job roles with confidence scores, even with **automated retraining** for continuous learning.
+
+Even though not all my ideas are fully complete, I’m driven by the spark of **curiosity**, the need to **solve real problems**, and the desire to **create even a 1% improvement** in someone’s life.
+
+🧠 I live in a data-driven world — whether I’m walking, working, or wondering — and I aim to turn that data into impact.
+
+Let's just say... if there’s a challenge that needs fixing with code, logic, or a bold idea — I’m already working on it. 🚀
+
 
 ### 💻 Tech Stack
 
