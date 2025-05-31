@@ -38,12 +38,6 @@ Let's just say... if there’s a challenge that needs fixing with code, logic, o
 🔁 ETL Workflow
 <p> <img src="https://img.shields.io/badge/Azure%20Data%20Factory-007FFF?style=for-the-badge&logo=microsoft-azure&logoColor=white"/> <img src="https://img.shields.io/badge/Azure%20Databricks-E65A1F?style=for-the-badge&logo=databricks&logoColor=white"/> <img src="https://img.shields.io/badge/Azure%20SQL-0078D4?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/> <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/> <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/> <img src="https://img.shields.io/badge/Snowflake-56B9DA?style=for-the-badge&logo=snowflake&logoColor=white"/> </p>
 
-### 🌱 About Me
-
-- 🔭 I’m currently working on **AI-powered solutions & ETL pipelines**
-- 💡 Always exploring **Machine Learning**, **Web Development**, and **Cloud Data Engineering**
-- ✨ Passionate about making **technology impactful and accessible**
-- 🌐 Portfolio: [theabdulkalam.com](http://theabdulkalam.com)
 
 ---
 
