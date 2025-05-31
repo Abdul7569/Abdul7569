@@ -1,8 +1,8 @@
+
 <h1 align="center">Hi 👋, I'm Abdul Kalam Pulicharla</h1>
-<h3 align="center">🚀 I love building things that make life easier.</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data Engineer;AI+Enthusiast;Machine+Learning+Explorer;Always+Learning+New+Tech&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Engineer;AI+Enthusiast;Machine+Learning+Explorer;Always+Learning+New+Tech&center=true&width=500&height=45">
 </p>
 
 ---
